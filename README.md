@@ -4,7 +4,8 @@
 # Introduction
 This project is the Library Management System written in C language. It allows users to choose one of the existing functions to handle, update, count and list all the details about Library Cards, Books, and Book Borrowing & Returning Tickets.
 
-This project is the individual final project of the CSC10001 Course (VNG-HCMUS) created by Nguyen Bui Phuong Dung - school year 2023.12 - 2026.07. This project has 2 versions; the first version allows information to be saved in the console cache, and the 2nd version saves information in text files.
+This project is the individual final project of the CSC10001 Course (VNG-HCMUS) created by Nguyen Bui Phuong Dung - school year 2023.12 - 2026.07. 
+This project has 2 versions; the first version allows information to be saved in the console cache, and the 2nd version saves information in text files.
 
 # Content
 Details of information are:
