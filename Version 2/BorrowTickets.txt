@@ -1,0 +1,4 @@
+Reader Code: 01AX - Borrow Date: 20-04-2024 - Expected to return: 26-04-2024
+Book 1: 604993780X,Book 2: 38805310
+Reader Code: 02BY - Borrow Date: 23-03-2024 - Expected to return: 29-03-2024
+Book 1: 38805310,Book 2: 604993780X

@@ -1,0 +1,4 @@
+Reader Code: 01AX - Borrow Date: 20-04-2024 - Expected Return Date: 24-04-2024 - Return Date: 27-04-2024 - Penalty Fee: 15000 VND
+Book 1: 38805310,Book 2: 604993780X
+Reader Code: 02BY - Borrow Date: 23-03-2024 - Expected Return Date: 27-03-2024 - Return Date: 05-04-2024 - Penalty Fee: 50000 VND
+Book 1: 38805310
