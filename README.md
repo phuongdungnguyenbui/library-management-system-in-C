@@ -6,7 +6,7 @@ This project is the Library Management System written in C language. It allows u
 
 This project is the individual final project of the CSC10001 Course (VNG-HCMUS) created by Nguyen Bui Phuong Dung - school year 2023.12 - 2026.07. 
 
-This project has 2 versions: the first allows information to be saved in the console cache, and the second saves information in text files.
+This project has 2 versions: **Version 1 allows information to be saved in the console cache**, **Version 2 saves information in text files**.
 
 # Content
 Details of information are:
